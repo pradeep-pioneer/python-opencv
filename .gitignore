@@ -120,3 +120,5 @@ dmypy.json
 bin/
 include/
 lib/
+etc/
+share/
